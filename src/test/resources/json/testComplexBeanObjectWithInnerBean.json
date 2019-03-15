@@ -1,0 +1,1 @@
+{"my-string":"A String value","myPrimitiveInt":"1234","myInteger":"7890","dbl":"23.67","myDouble":"0.0","myDateTime":[2016,1,1,1,1],"api-key":"...","my-inner-self":{"my-string":"A String value","myPrimitiveInt":"1234","myInteger":"7890","dbl":"23.67","myDouble":"0.0","myDateTime":[2016,1,1,1,1],"api-key":"..."}}

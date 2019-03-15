@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><alternateTestBeanObject><type>SALE</type><card>4111111111111111</card><expDate>1219</expDate><amount>25.00</amount><myString>A String value</myString><myPrimitiveInt>1234</myPrimitiveInt><myInteger>7890</myInteger><dbl>23.67</dbl><myDouble>34.67</myDouble><myDateTime>2016-01-01T01:01:00</myDateTime></alternateTestBeanObject>

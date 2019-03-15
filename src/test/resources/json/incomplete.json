@@ -1,0 +1,18 @@
+{
+    "type": "SALE",
+    "expDate": "1219",
+    "amount": "25.00",
+    "myPrimitiveInt": 1234,
+    "myInteger": 7890,
+    "dbl": 23.67,
+    "myDouble": 34.67,
+    "myDateTime": [
+        2016,
+        1,
+        1,
+        1,
+        1
+    ],
+    "my-card": "4111111111111111",
+    "my-string": "A String value missing closing quote
+}

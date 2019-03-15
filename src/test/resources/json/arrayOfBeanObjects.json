@@ -1,0 +1,17 @@
+[
+  {
+    "my-card": "432112341111",
+    "my-string": "A String value",
+    "myPrimitiveInt": "1234",
+    "myInteger": "7890",
+    "dbl": "23.67",
+    "myDouble": "0.0"
+  },
+  {
+    "my-string": "A String value",
+    "myPrimitiveInt": "1234",
+    "myInteger": "7890",
+    "dbl": "23.67",
+    "myDouble": "0.0"
+  }
+]
